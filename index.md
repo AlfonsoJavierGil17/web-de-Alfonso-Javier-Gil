@@ -10,7 +10,7 @@ A diferencia de los cables de cobre tradicionales que transmiten impulsos eléct
 -Reflexión interna total: La luz rebota continuamente en las paredes del núcleo sin perderse, permitiendo que la señal viaje miles de kilómetros.
 -Velocidad de la luz: Aunque el vidrio frena un poco la luz, los datos viajan a unos **200.000 km/s**.
 
-![Cables de fibra óptica iluminados](https://share.google/MAcFyjqmdyjV4TMww)
+![Cables de fibra óptica iluminados](./img/cables%20de%20fibra%20optica%20-%20Buscar%20con%20Google.html)
 
 ## Ventajas principales
 
